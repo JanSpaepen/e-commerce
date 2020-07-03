@@ -8,7 +8,7 @@ use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 class LoginController extends Controller
 {
-    use AuthenticatesUsers;
+
 
     /**
      * Where to redirect admins after login.
